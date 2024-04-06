@@ -1,0 +1,3 @@
+// Generating all permutations of a list
+import java.util.ArrayList;
+public static void Main(string[] args) {
